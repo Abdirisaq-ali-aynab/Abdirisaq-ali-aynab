@@ -43,7 +43,7 @@ On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** 
 
 ## 💼 Experience Highlights
 
-**Center for African Immigrants and Refugees Organization (CAIRO)**, Portland, OR · *Sep 2022 – Present*
+**Center for African Immigrants and Refugees Organization (CAIRO)**, Portland, OR · *Sep 2022 – Present*<br>
 <sub>Youth Engagement Program Coordinator (2025–Present) · Lead Cultural Navigator (2023–2025) · Cultural Navigator (2022–2023)</sub>
 
 - 🎣 **Phishing response:** ran awareness training for 75+ employees after 4 staff email accounts were compromised; no breaches in the 2 years since
