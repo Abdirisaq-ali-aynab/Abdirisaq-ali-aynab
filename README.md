@@ -34,9 +34,9 @@ On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** 
 | GIAC Foundational Cybersecurity Technologies (**GFACT**) | Jul 2026 |
 | Microsoft Certified: **Azure Fundamentals** | Sep 2026 |
 | GIAC Certified Incident Handler (**GCIH**) | Expected Jan 2027 |
-| **B.S. Information Technology Management**, Western Governors University | 2025 |
-| **SANS Cyber Academy** | 2026 |
-| **Level Effect SOC Analyst Program** (3 months, virtual SOC) | — |
+| **B.S. Information Technology Management**, Western Governors University | Jun 2025 |
+| **SANS Cyber Academy** | April 2026 |
+| **Level Effect SOC Analyst Program** (3 months, virtual SOC) | Dec 2025 |
 
 ---
 
