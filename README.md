@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FB6E0&center=true&vCenter=true&width=640&lines=GIAC+GSEC+%7C+GFACT+%7C+Azure+Fundamentals;Supporting+users+and+securing+accounts;Active+Directory+%E2%80%A2+Group+Policy+%E2%80%A2+PowerShell;Alert+triage+with+Sentinel+and+Elastic" alt="Typing intro">
 
 <a href="https://www.linkedin.com/in/abdirisaq-aynab"><img src="https://img.shields.io/badge/LinkedIn-abdirisaq--aynab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/Location-Beaverton%2C_OR-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Beaverton, OR">
 <img src="https://img.shields.io/badge/Open_to-IT_Support_%7C_SOC_Analyst-2E7D32?style=for-the-badge" alt="Open to IT Support and SOC Analyst roles">
 
 </div>
@@ -16,7 +15,7 @@ I'm an **IT Management graduate (WGU, 2025)** with **GIAC GSEC** and **GFACT** c
 
 For four years at a nonprofit, CAIRO, I've taken on IT and security work alongside my program role. After a phishing incident compromised four staff email accounts, I trained **75+ employees** and had them reset their passwords; there hasn't been a breach since. I wrote an offboarding policy that cut access removal for departing employees **from about a week to under an hour**, and I built the first inventory of the **55 staff laptops**.
 
-On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** (Level Effect), and I document my hands-on labs here: Active Directory administration, help desk ticketing, SIEM investigations, malware analysis and incident response.
+On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** (Level Effect), and I document my hands-on labs here: Active Directory administration, help desk ticketing, SIEM investigations and malware analysis.
 
 ---
 
@@ -66,7 +65,6 @@ On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** 
 | Project | What I did | Skills |
 |---|---|---|
 | 🔎 **[ELK SIEM Investigation Lab](https://github.com/Abdirisaq-ali-aynab/ELK-SIEM-Investigation-Lab)** | Investigated an LSASS memory dump (credential access) attack in an Elastic SIEM lab | Elastic · Kibana · Log analysis · MITRE ATT&CK |
-| 🚨 **[Incident Response with Claude AI & MCP](https://github.com/Abdirisaq-ali-aynab/Incident-Response-Using-Claude-AI-Model-Context-Protocol-MCP-)** | Worked an incident through detection, investigation and containment using Claude connected to security tools through Model Context Protocol | Incident response · Triage · Containment · AI tooling |
 | 🦠 **[Windows Malware Analysis](https://github.com/Abdirisaq-ali-aynab/Windows-Malware-Analysis)** | Found DLL injection in `explorer.exe` using Autoruns, Process Explorer and Process Monitor | Sysinternals · Malware triage · Windows internals |
 | 📋 **[Vulnerability Assessment (OpenSSH)](https://github.com/Abdirisaq-ali-aynab/vulnerability-assessment)** | Scored an OpenSSH 6.6.1p1 vulnerability with CVSS, mapped it to MITRE ATT&CK and wrote a remediation plan | Vulnerability management · CVSS · Risk reporting |
 
