@@ -1,18 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Abdirisaq%20Ali&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=IT%20Support%20%E2%80%A2%20Help%20Desk%20%E2%80%A2%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Abdirisaq Ali – IT Support, Help Desk, SOC Analyst">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Abdirisaq%20Ali%20Aynab&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=IT%20Support%20%E2%80%A2%20Help%20Desk%20%E2%80%A2%20SOC%20Analyst&descAlignY=58&descSize=18" width="100%" alt="Abdirisaq Ali Aynab – IT Support, Help Desk, SOC Analyst">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FB6E0&center=true&vCenter=true&width=620&lines=Resolving+tickets+and+supporting+users;Administering+Active+Directory+%26+Group+Policy;Investigating+alerts+with+SIEM+and+Sysinternals;Documenting+everything+I+learn" alt="Typing intro">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3FB6E0&center=true&vCenter=true&width=640&lines=GIAC+GSEC+%7C+GFACT+%7C+Azure+Fundamentals;Supporting+users+and+securing+accounts;Active+Directory+%E2%80%A2+Group+Policy+%E2%80%A2+PowerShell;Alert+triage+with+Sentinel+and+Elastic" alt="Typing intro">
+
+<a href="https://www.linkedin.com/in/abdirisaq-aynab"><img src="https://img.shields.io/badge/LinkedIn-abdirisaq--aynab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/Location-Beaverton%2C_OR-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Beaverton, OR">
+<img src="https://img.shields.io/badge/Open_to-IT_Support_%7C_SOC_Analyst-2E7D32?style=for-the-badge" alt="Open to IT Support and SOC Analyst roles">
 
 </div>
 
 ## 👋 About Me
 
-I'm an aspiring **IT Support / Help Desk technician** and **SOC Analyst** who learns by building labs and documenting them. My projects follow the same workflow a real team uses: **identify the problem → investigate → fix or contain → document the result**.
+I'm an **IT Management graduate (WGU, 2025)** with **GIAC GSEC** and **GFACT** certifications and **Microsoft Azure Fundamentals**, looking for my next role in **IT support / help desk** or as a **SOC analyst**.
 
-- 🎯 **Targeting:** IT Support · Help Desk · Desktop Support · SOC Analyst (Tier 1)
-- 📚 **Currently training:** Level Effect SOC100 (Windows, Linux, Networking, Active Directory, Help Desk, Security Operations)
-- 🧪 **Home lab:** Windows Server + Active Directory domain, osTicket, ELK SIEM, Sysinternals
+For four years at a nonprofit, CAIRO, I've taken on IT and security work alongside my program role. After a phishing incident compromised four staff email accounts, I trained **75+ employees** and had them reset their passwords; there hasn't been a breach since. I wrote an offboarding policy that cut access removal for departing employees **from about a week to under an hour**, and I built the first inventory of the **55 staff laptops**.
+
+On the technical side, I triaged **15 security alerts in a 6-week virtual SOC** (Level Effect), and I document my hands-on labs here: Active Directory administration, help desk ticketing, SIEM investigations, malware analysis and incident response.
+
+---
+
+## 🏅 Certifications & Education
+
+<p>
+<img src="https://img.shields.io/badge/GIAC-GSEC-B31B1B?style=for-the-badge" alt="GIAC GSEC">
+<img src="https://img.shields.io/badge/GIAC-GFACT-B31B1B?style=for-the-badge" alt="GIAC GFACT">
+<img src="https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure Fundamentals">
+<img src="https://img.shields.io/badge/GIAC-GCIH_(in_progress)-6c757d?style=for-the-badge" alt="GIAC GCIH in progress">
+</p>
+
+| Credential | Issued |
+|---|---|
+| GIAC Security Essentials (**GSEC**) | Oct 2026 |
+| GIAC Foundational Cybersecurity Technologies (**GFACT**) | Jul 2026 |
+| Microsoft Certified: **Azure Fundamentals** | Sep 2026 |
+| GIAC Certified Incident Handler (**GCIH**) | Expected Jan 2027 |
+| **B.S. Information Technology Management**, Western Governors University | 2025 |
+| **SANS Cyber Academy** | 2026 |
+| **Level Effect SOC Analyst Program** (3 months, virtual SOC) | — |
+
+---
+
+## 💼 Experience Highlights
+
+**Center for African Immigrants and Refugees Organization (CAIRO)**, Portland, OR · *Sep 2022 – Present*
+<sub>Youth Engagement Program Coordinator (2025–Present) · Lead Cultural Navigator (2023–2025) · Cultural Navigator (2022–2023)</sub>
+
+- 🎣 **Phishing response:** ran awareness training for 75+ employees after 4 staff email accounts were compromised; no breaches in the 2 years since
+- 🔐 **Access control:** wrote an offboarding policy so former employees lose system access **within an hour** instead of about a week
+- 💻 **Asset management:** built a serial-number tracker for 55 staff laptops where no tracking existed before
+- 👥 **Leadership:** supervise a team of 8; report to the Oregon Department of Education on 500+ students
+- 🌐 **Teaching:** ran an 8-week web development course for 20 students (ages 11–17)
 
 ---
 
@@ -20,19 +58,17 @@ I'm an aspiring **IT Support / Help Desk technician** and **SOC Analyst** who le
 
 | Project | What I did | Skills |
 |---|---|---|
-| 🎫 **[Help Desk Ticket Resolution (osTicket)](https://github.com/Abdirisaq-ali-aynab/helpdesk-ticket-resolution-osticket)** | Worked a "Print Issues" ticket from start to close: triage, internal notes, found the root cause in Event Viewer (Event ID 7040), fixed the Print Spooler, replied to the user and closed with resolution notes | osTicket · Troubleshooting · Event Viewer · Customer communication |
-| 🏢 **[Active Directory Home Lab](https://github.com/Abdirisaq-ali-aynab/active-directory-homelab)** | 8 labs: built a Domain Controller, created users/groups, joined PCs, granted RDP access with GPO, restored deleted files with Shadow Copies, remote support with PowerShell, deployed software with Chocolatey | Active Directory · Group Policy · DNS · RDP · PowerShell |
-
----
+| 🎫 **[Help Desk Ticket Resolution (osTicket)](https://github.com/Abdirisaq-ali-aynab/helpdesk-ticket-resolution-osticket)** | Worked a "Print Issues" ticket from triage to closure: traced the cause to an admin disabling the Print Spooler (Event ID 7040), restored the service, updated the user and closed with resolution notes | osTicket · Troubleshooting · Event Viewer · Customer communication |
+| 🏢 **[Active Directory Home Lab](https://github.com/Abdirisaq-ali-aynab/active-directory-homelab)** | 8 labs: built a Domain Controller, created users/groups, joined PCs, granted RDP access with GPO, restored a deleted file from a shared drive, remote support with PowerShell, deployed software with Chocolatey | Active Directory · Group Policy · DNS · RDP · PowerShell |
 
 ## 🛡️ SOC & Security Operations Projects
 
 | Project | What I did | Skills |
 |---|---|---|
-| 🔎 **[ELK SIEM Investigation Lab](https://github.com/Abdirisaq-ali-aynab/ELK-SIEM-Investigation-Lab)** | Investigated an LSASS memory dump (credential access) attack in the ELK Stack, from the first alert to the full attack picture | Elasticsearch · Kibana · Log analysis · MITRE ATT&CK |
-| 🚨 **[AI-Assisted Incident Response (MCP)](https://github.com/Abdirisaq-ali-aynab/Incident-Response-Using-Claude-AI-Model-Context-Protocol-MCP-)** | Simulated a Windows endpoint incident through the full IR lifecycle: detection, investigation, containment and outcomes | Incident response · Triage · Containment · AI tooling |
+| 🔎 **[ELK SIEM Investigation Lab](https://github.com/Abdirisaq-ali-aynab/ELK-SIEM-Investigation-Lab)** | Investigated an LSASS memory dump (credential access) attack in an Elastic SIEM lab | Elastic · Kibana · Log analysis · MITRE ATT&CK |
+| 🚨 **[Incident Response with Claude AI & MCP](https://github.com/Abdirisaq-ali-aynab/Incident-Response-Using-Claude-AI-Model-Context-Protocol-MCP-)** | Worked an incident through detection, investigation and containment using Claude connected to security tools through Model Context Protocol | Incident response · Triage · Containment · AI tooling |
 | 🦠 **[Windows Malware Analysis](https://github.com/Abdirisaq-ali-aynab/Windows-Malware-Analysis)** | Found DLL injection in `explorer.exe` using Autoruns, Process Explorer and Process Monitor | Sysinternals · Malware triage · Windows internals |
-| 📋 **[Vulnerability Assessment (OpenSSH)](https://github.com/Abdirisaq-ali-aynab/vulnerability-assessment)** | Assessed OpenSSH 6.6.1p1 vulnerabilities with CVSS scoring, MITRE ATT&CK mapping and a remediation plan | Vulnerability management · CVSS · Risk reporting |
+| 📋 **[Vulnerability Assessment (OpenSSH)](https://github.com/Abdirisaq-ali-aynab/vulnerability-assessment)** | Scored an OpenSSH 6.6.1p1 vulnerability with CVSS, mapped it to MITRE ATT&CK and wrote a remediation plan | Vulnerability management · CVSS · Risk reporting |
 
 <sub>Other: 🌐 <a href="https://github.com/Abdirisaq-ali-aynab/Travel">Travel website</a> (HTML/CSS)</sub>
 
@@ -47,24 +83,29 @@ I'm an aspiring **IT Support / Help Desk technician** and **SOC Analyst** who le
 ![Group Policy](https://img.shields.io/badge/Group_Policy-5E5E5E?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![osTicket](https://img.shields.io/badge/osTicket-1F6FB2?style=for-the-badge&logo=ticktick&logoColor=white)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP_·_DNS_·_DHCP-2E7D32?style=for-the-badge&logo=cisco&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 **Security Operations**
 
-![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-E8478B?style=for-the-badge&logo=kibana&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_(ELK)-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Sysinternals](https://img.shields.io/badge/Sysinternals-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C41E3A?style=for-the-badge&logoColor=white)
+![CVSS](https://img.shields.io/badge/CVSS-444444?style=for-the-badge)
+
+**Support & Admin:** password resets · account offboarding & access removal · device inventory & asset tracking · end-user security training · written documentation
 
 ---
 
 ## 📈 What I'm Working On
 
-- [x] Active Directory administration lab
-- [x] Help desk ticket resolution in osTicket
+- [x] GIAC GSEC & GFACT · Microsoft Azure Fundamentals
+- [x] Active Directory home lab & osTicket ticket resolution
+- [ ] GIAC GCIH (Jan 2027)
 - [ ] More help desk tickets: lost data, service failure, network and browser troubleshooting
-- [ ] SOC alert triage and detection write-ups
 
 ---
 
@@ -72,10 +113,10 @@ I'm an aspiring **IT Support / Help Desk technician** and **SOC Analyst** who le
 
 ### 📫 Let's Connect
 
-<a href="https://github.com/Abdirisaq-ali-aynab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<!-- Add your LinkedIn: replace YOUR-LINKEDIN below and remove these comment markers
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
--->
+I'm open to **IT Support / Help Desk** and **SOC Analyst** opportunities. The fastest way to reach me is LinkedIn.
+
+<a href="https://www.linkedin.com/in/abdirisaq-aynab"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Abdirisaq-ali-aynab"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f2027,50:203a43,100:2c5364" width="100%" alt="">
 
